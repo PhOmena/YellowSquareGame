@@ -2,8 +2,8 @@
 
 ## 👨‍💻 Technologias Utilizadas
 <p display="block" align="left">
-  <a href="https://en.wikipedia.org/wiki/HTML">• HTML</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.javascript.com/">• JavaScript</a>
+  <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.javascript.com/">JavaScript</a>
 </p>
 
 ## 💻 Projeto
