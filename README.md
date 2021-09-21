@@ -1,16 +1,16 @@
-<h1 align="center">Yellow Square Game</h1>
+<h1 align="center">Square Game</h1>
 
-## :mag_right: Technologies
-<div align="left">
-<img width="40" display="flex" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML">
-<img width="35" display="flex" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS">
-</div>
-<br>
+## 👨‍💻 Technologias Utilizadas
+<p display="block" align="left">
+  <a href="https://en.wikipedia.org/wiki/HTML">• HTML</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.javascript.com/">• JavaScript</a>
+</p>
 
-## :bookmark_tabs: Resume of application
-"Yellow Square Game" it's a game developed by my own. I learned and studied about JavaScript and decided to try. In this game I used arrays and physics to create some gravity. You can jump for 3 three times before lose the jump. If you fall on the floor or hit something, your jumps come back to start. I loved this experience!
+## 💻 Projeto
 
-## :newspaper: Link to play
+Esse projeto é um simples jogo desenvolvido com JavaScript. Foi um desafio utilizar de conceitos físicos e dinâmicos na aplicação do projeto. 
+
+## 🔗 Jogar
 https://yellow-square-game.vercel.app/Game.html
 
 
